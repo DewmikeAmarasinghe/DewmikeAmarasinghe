@@ -2,7 +2,7 @@
 
 👋 Hi, I'm a Computer Science and Engineering undergraduate at the University of Moratuwa, specializing in Data Science/Machine Learning, with a passion for Artificial Intelligence, Machine Learning, and Full-stack development. Currently, I'm expanding my knowledge in AI/ML.
 
-🚀 I'm a highly motivated and adaptable individual, driven by curiosity and a rapid learning curve. My interests span cutting-edge technologies, and I'm always eager to explore new trends and innovations in the tech world.
+🚀 I'm a motivated and adaptable individual, driven by curiosity and a rapid learning curve. My interests span cutting-edge technologies, and I'm always eager to explore new trends and innovations in the tech world.
 
 💡 I'm currently working on a Learning Interpretability Tool for voice (LIT Voice Project - Semester 5).
 
